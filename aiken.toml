@@ -1,0 +1,14 @@
+name = "aiken-lang/gift-card"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken gift card contract for Cardano"
+
+[repository]
+user = "aiken-lang"
+project = "gift-card"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "v2"
+source = "github"
